@@ -15,7 +15,9 @@ this is a 4 wheel robot with esp8266 micro controller and controlled with smart 
 
 # code
 - [code for aurdino ide](arun_udp_car.ino)
-this code for l298 motor driver and for relay based motor driver [relay_motor](motor.h) library is there.
+
+- this code for l298 motor driver and for relay based motor driver library is there.
+- [relay_motor](motor.h)
 
 # app
 
